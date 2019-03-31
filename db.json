@@ -1,0 +1,13 @@
+{
+    "measurements": [
+        {
+            "id": 1,
+            "min": 10.0,
+             "average": 20.0,
+             "standardDeviation": 15.0,	 
+            "time":1553869712,
+            "key": "com.interlev.ipm.test"
+        }
+    ]
+
+}
